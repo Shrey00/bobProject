@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with this project
 
-1. npm i
-2. npm start
+ npm i - to install the dependencies
+ npm start 
